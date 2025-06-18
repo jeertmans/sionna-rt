@@ -425,7 +425,7 @@ class Paths:
         :param out_type: Name of the desired output type.
             Currently supported are
             `Dr.Jit <https://drjit.readthedocs.io/en/latest/reference.html>`_
-            ("drjit), `Numpy <https://numpy.org>`_ ("numpy"),
+            ("drjit"), `Numpy <https://numpy.org>`_ ("numpy"),
             `Jax <https://jax.readthedocs.io/en/latest/index.html>`_ ("jax"),
             `TensorFlow <https://www.tensorflow.org>`_ ("tf"),
             and `PyTorch <https://pytorch.org>`_ ("torch").
@@ -585,7 +585,7 @@ class Paths:
         :param out_type: Name of the desired output type.
             Currently supported are
             `Dr.Jit <https://drjit.readthedocs.io/en/latest/reference.html>`_
-            ("drjit), `Numpy <https://numpy.org>`_ ("numpy"),
+            ("drjit"), `Numpy <https://numpy.org>`_ ("numpy"),
             `Jax <https://jax.readthedocs.io/en/latest/index.html>`_ ("jax"),
             `TensorFlow <https://www.tensorflow.org>`_ ("tf"),
             and `PyTorch <https://pytorch.org>`_ ("torch").
@@ -704,7 +704,7 @@ class Paths:
         :param out_type: Name of the desired output type.
             Currently supported are
             `Dr.Jit <https://drjit.readthedocs.io/en/latest/reference.html>`_
-            ("drjit), `Numpy <https://numpy.org>`_ ("numpy"),
+            ("drjit"), `Numpy <https://numpy.org>`_ ("numpy"),
             `Jax <https://jax.readthedocs.io/en/latest/index.html>`_ ("jax"),
             `TensorFlow <https://www.tensorflow.org>`_ ("tf"),
             and `PyTorch <https://pytorch.org>`_ ("torch").
